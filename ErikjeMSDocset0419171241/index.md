@@ -39,8 +39,8 @@ ms.author: carolz
         <h2>Samples</h2>
         <p>TBS</p>
         <ul class="spaced">
-            <li><a href="/azure/virtual-machines/virtual-machines-linux-cli-samples">Azure CLI</a></li>
-            <li><a href="/azure/virtual-machines/virtual-machines-linux-powershell-samples">Azure PowerShell</a></li>
+            <li><a href="/azure/virtual-machines/virtual-machines-linux-cli-samples">TBD</a></li>
+            <li><a href="/azure/virtual-machines/virtual-machines-linux-powershell-samples">TBD</a></li>
         </ul>
     </div>
 </div>
