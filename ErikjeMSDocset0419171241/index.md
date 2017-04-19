@@ -22,7 +22,7 @@ ms.author: carolz
 <div class="ico48Case">
     <div class="ico48Link">
         <a href="/azure/azure-stack/azure-stack-deploy">
-            <img src="media/index/deploy.svg" alt="">
+            <img src="/media/index/deploy.svg" alt="">
             <span>Deploy</span>
         </a>
     </div>
